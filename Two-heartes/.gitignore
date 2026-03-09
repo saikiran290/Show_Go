@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+.env
+*.db
+uploads/*
+!uploads/avatars/
+.DS_Store
+.idea/
+.vscode/
+*.log
+firebase-service-account.json
