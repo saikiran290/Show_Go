@@ -1,9 +1,9 @@
 {
   "expo": {
-    "name": "ShowGo",
-    "slug": "frontend",
+    "name": "Showtime",
+    "slug": "showtime",
     "version": "1.0.0",
-    "scheme": "showgo",
+    "scheme": "showtime",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
@@ -15,7 +15,7 @@
     },
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.maheshb.frontend",
+      "bundleIdentifier": "com.saikiran_18.showtime",
       "infoPlist": {
         "ITSAppUsesNonExemptEncryption": false,
         "NSAppTransportSecurity": {
@@ -28,7 +28,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#000000"
       },
-      "package": "com.maheshb.frontend"
+      "package": "com.saikiran_18.showtime"
     },
     "web": {
       "favicon": "./assets/favicon.png"
@@ -51,9 +51,9 @@
     "extra": {
       "router": {},
       "eas": {
-        "projectId": "9de5074b-b3a4-4979-a8c3-1fe448634721"
+        "projectId": "e4dbc728-4011-4987-b92a-1ce053971132"
       }
     },
-    "owner": "mahesh-b"
+    "owner": "saikiran_18"
   }
 }
